@@ -1,16 +1,13 @@
 
 
 
-<h1 align = "center">
- 
-Zomato_Recommendation_Model
-</h1>
+# Zomato_Recommendation_Model
+**Zomato is an Indian multinational restaurant aggregator and food delivery company. It was founded in 2008 and headquarters in Gurugram, Haryana, India.**
 
-<h3  align = "center">
- <b>The depository contains the analysis of Restaurants listed on Zomato Food Delivery Platform in the city of Bangalore on the basis of location, cuisines, prices, 
-ratings etc. The Project's objectives were to create a Web-Page on this Zomato site. Additionally, it compared the existing restaurants and their localities in 
-Bangalore based on their ratings, prices, cuisines etc. Importing the Data and Data Cleaning has been done with Power Query. </b>
-</h3>
+**Initially launched as a restaurant review and discovery platform, Zomato has evolved into a comprehensive food tech company.**
+
+**Zomato's continuous innovation, technology-driven approach, and focus on customer experience have positioned it as a leading player in the food delivery and restaurant industry.**
+
 
 <br>
 <br>
